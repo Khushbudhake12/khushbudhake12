@@ -4,7 +4,7 @@
 <table>
   <tr>
     <td>
-      
+
 ### 👩‍💻 About Me:
 
 - 🎓 BCA Graduate & Certified Data Associate  
@@ -13,12 +13,12 @@
 - 💬 Ask me about: **Python, pandas, SQL, Power BI, Excel**  
 - 🌱 Currently learning: Advanced **data storytelling, dashboard design**, and **automating reports using Python & Excel**  
 - 🔍 Looking for roles in: **Data Analyst | Business Analyst**  
-- 📫 Reach me at: **[khushabudhake2020@gmail.com](mailto:your.email@example.com)**
+- 📫 Reach me at: **[khushabudhake2020@gmail.com](mailto:khushabudhake2020@gmail.com)**
 
-</td>
-    <td align="right">
-      <img src="https://img.icons8.com/clouds/500/data-analytics.png" width="300px" alt="Data Analyst Animation">
-    </td>
+   </td>
+   <td>
+     <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300px" alt="Data Analyst Animation">
+   </td>
   </tr>
 </table>
 
@@ -30,7 +30,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="Excel" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="Excel" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
 </p>
 
@@ -43,10 +43,10 @@ Here are some of the projects I've worked on:
 - 📊 **Car Sales Dashboard – Power BI**  
 - 🤖 **Handwritten Digit Recognition – Python & Machine Learning**  
 - 📈 **Restaurant Data Analysis – Python, Pandas, Matplotlib**  
-- 📂 **Coffee Sales Insights – Excel Dashboard using PivotTables & Charts**
+- 📂 **Product Sales Insights – Excel Dashboard using PivotTables & Charts**
 
 🔗 **Explore all my projects in detail:**    
-📁 [GitHub Repositories](https://github.com/Khushbudhake12?tab=repositories)
+📁 [GitHub Repositories](https://github.com/Khushbudhake12?tab=repositories)  
 🌐 [My Portfolio Website](https://datascienceportfol.io/khushabudhake2020)
 
 ---
@@ -62,18 +62,3 @@ Here are some of the projects I've worked on:
 ---
 
 _Thanks for stopping by! ⭐ Feel free to explore my repositories or reach out to connect._
-
-<!--
-**Khushbudhake12/khushbudhake12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
